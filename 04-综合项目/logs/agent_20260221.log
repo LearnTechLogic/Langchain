@@ -1,0 +1,5 @@
+2026-02-21 19:11:50,939 - agent - INFO - logger_handler.py:56 - 信息日志
+2026-02-21 19:11:50,939 - agent - ERROR - logger_handler.py:57 - 错误日志
+2026-02-21 19:11:50,939 - agent - WARNING - logger_handler.py:58 - 警告日志
+2026-02-21 19:11:50,940 - agent - DEBUG - logger_handler.py:59 - 调试日志
+2026-02-21 19:43:19,574 - agent - ERROR - prompt_loader.py:44 - [load_report_prompts]解析报告生成提示词出错，[Errno 2] No such file or directory: 'D:\\Langchain\\04-综合项目\\prompts/report_prompt.txt'

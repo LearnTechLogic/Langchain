@@ -1,7 +1,7 @@
 md5_path = './md5.text'
 
 #Chroma
-collection_name = "rag"
+collection_name = "rags"
 embedding_name = "qwen3-embedding:4b"
 persist_directory = "./chroma_db"
 

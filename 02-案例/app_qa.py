@@ -13,8 +13,8 @@ if "message" not in st.session_state:
         "role": "assistant",
         "content": "你好，有什么可以帮你？"
     }]
-if "rag" not in st.session_state:
-    st.session_state["rag"] = RagService()
+if "rags" not in st.session_state:
+    st.session_state["rags"] = RagService()
 
 for message in st.session_state["message"]:
     st.chat_message(message["role"]).write(message["content"])
@@ -29,7 +29,7 @@ if prompt:
     })
     ai_res_list = []
     with st.spinner("思考中..."):
-        res_stream = st.session_state["rag"].chain.stream({"input": prompt}, config.session_config)
+        res_stream = st.session_state["rags"].chain.stream({"input": prompt}, config.session_config)
         def capture(generator, cache_list):
             for chunk in generator:
                 cache_list.append(chunk)

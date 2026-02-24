@@ -1,0 +1,24 @@
+2026-02-24 17:49:31,125 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Langchain\04-综合项目\data\扫地机器人100问.pdf 内容加载成功
+2026-02-24 17:49:33,160 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Langchain\04-综合项目\data\扫地机器人100问2.txt 内容加载成功
+2026-02-24 17:49:35,666 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Langchain\04-综合项目\data\扫拖一体机器人100问.txt 内容加载成功
+2026-02-24 17:49:40,252 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Langchain\04-综合项目\data\故障排除.txt 内容加载成功
+2026-02-24 17:49:43,105 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Langchain\04-综合项目\data\维护保养.txt 内容加载成功
+2026-02-24 17:49:45,701 - agent - INFO - vector_store.py:96 - [加载知识库]D:\Langchain\04-综合项目\data\选购指南.txt 内容加载成功
+2026-02-24 17:53:23,450 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-02-24 17:53:23,451 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-02-24 17:53:23,451 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-02-24 17:53:23,451 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\故障排除.txt内容已经存在知识库内，跳过
+2026-02-24 17:53:23,452 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\维护保养.txt内容已经存在知识库内，跳过
+2026-02-24 17:53:23,452 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\选购指南.txt内容已经存在知识库内，跳过
+2026-02-24 18:56:19,021 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-02-24 18:56:19,022 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-02-24 18:56:19,022 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-02-24 18:56:19,023 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\故障排除.txt内容已经存在知识库内，跳过
+2026-02-24 18:56:19,024 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\维护保养.txt内容已经存在知识库内，跳过
+2026-02-24 18:56:19,024 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\选购指南.txt内容已经存在知识库内，跳过
+2026-02-24 19:05:43,193 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-02-24 19:05:43,193 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-02-24 19:05:43,193 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-02-24 19:05:43,193 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\故障排除.txt内容已经存在知识库内，跳过
+2026-02-24 19:05:43,194 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\维护保养.txt内容已经存在知识库内，跳过
+2026-02-24 19:05:43,194 - agent - INFO - vector_store.py:74 - [加载知识库]D:\Langchain\04-综合项目\data\选购指南.txt内容已经存在知识库内，跳过
