@@ -134,3 +134,25 @@
 2026-02-25 15:57:33,912 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
 2026-02-25 15:57:34,350 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有7条消息。
 2026-02-25 15:57:34,351 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 无法提供基于参考资料的保养建议，因未包含相关检索内容。
+2026-02-25 15:58:38,220 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-02-25 15:58:38,221 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 帮我生成我的使用报告
+2026-02-25 15:58:49,956 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_current_month
+2026-02-25 15:58:49,957 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-02-25 15:58:49,958 - agent - INFO - middleware.py:24 - [tool monitor]工具get_current_month调用成功
+2026-02-25 15:58:50,092 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-02-25 15:58:50,093 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 2025-10
+2026-02-25 15:58:59,441 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：get_user_id
+2026-02-25 15:58:59,442 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-02-25 15:58:59,442 - agent - INFO - middleware.py:24 - [tool monitor]工具get_user_id调用成功
+2026-02-25 15:58:59,529 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有5条消息。
+2026-02-25 15:58:59,529 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 1010
+2026-02-25 15:59:08,773 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fill_context_for_report
+2026-02-25 15:59:08,776 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{}
+2026-02-25 15:59:08,782 - agent - INFO - middleware.py:24 - [tool monitor]工具fill_context_for_report调用成功
+2026-02-25 15:59:09,264 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有7条消息。
+2026-02-25 15:59:09,264 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | fill_context_for_report已调用
+2026-02-25 15:59:20,101 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：fetch_external_data
+2026-02-25 15:59:20,102 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'user_id': '1010', 'month': '2025-10'}
+2026-02-25 15:59:20,104 - agent - INFO - middleware.py:24 - [tool monitor]工具fetch_external_data调用成功
+2026-02-25 15:59:22,157 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有9条消息。
+2026-02-25 15:59:22,160 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | {"特征": "130㎡四居 | 三代同堂 | 通体砖", "效率": "覆盖率:85%\\n手动辅助清扫:2次/天\\n定时清扫使用率:70%", "耗材": "电池衰减:19%\\n边刷寿命:剩余25天", "对比": "大户型中操作便捷性低于同类15%"}
